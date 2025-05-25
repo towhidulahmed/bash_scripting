@@ -1,6 +1,6 @@
 #!/bin/bash
 
-commit_msg=${1:-"Update commit"}  # Default message if not provided
+commit_msg=${1:-"New update commit"}  # Default message if not provided
 
 # Add all changes (new, modified, deleted)
 git add .

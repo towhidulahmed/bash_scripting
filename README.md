@@ -23,6 +23,7 @@ Generates a secure, random password using OpenSSL.
 ```bash
 chmod +x password_generator.sh
 ./password_generator.sh
+```
 
 ### 2. `script_backup.sh` – Git Commit & Push Helper
 
